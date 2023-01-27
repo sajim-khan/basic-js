@@ -78,19 +78,3 @@ console.log(arr);
 
 
 //delete id 4 -> It can be possible by splice(mutable) or filter(Immutable) way
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
