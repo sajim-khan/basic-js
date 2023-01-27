@@ -16,3 +16,9 @@ var result = score / 5 ;
 result = result.toFixed(2)
 console.log(result);
 
+//practice -3
+
+var firstValue = 'I am going to be';
+var secondValue = 'an awesome web developer';
+ var result = firstValue +' '+ secondValue;
+ console.log(result);
